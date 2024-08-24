@@ -1,0 +1,21 @@
+{
+    "name": "dried/date-contracts",
+    "description": "Generic abstractions for dates",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kylekatarnls",
+            "email": "kylekatarnls@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dried\\Contracts\\": "src/Dried/Contracts/"
+        }
+    }
+}
