@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace src\Dried\Contracts\Translation;
+namespace Dried\Contracts\Translation;
 
 use Closure;
 
